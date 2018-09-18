@@ -18,7 +18,7 @@ remote_theme: mmistakes/so-simple-theme
 locale: en-US
 title: "HUMAN COMPUTER INTERACTION"
 description: "ASSIGMENT"
-baseurl: # the subpath of your site, e.g. ""
+baseurl: "" # the subpath of your site, e.g. ""
 url: "https://jeesoowooo.github.io"
 logo: # path of site logo, e.g. "/images/logo.png"
 date_format: "%B %-d, %Y"
