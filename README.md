@@ -1,2 +1,2 @@
 # wooo
-# https://jeesoowooo.github.io/HCI-HW1/
+# https://jeesoowooo.github.io
